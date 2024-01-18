@@ -1,0 +1,306 @@
+[gd_scene load_steps=56 format=3 uid="uid://c5bebt4e764r4"]
+
+[ext_resource type="Texture2D" uid="uid://dgwyfdf6ld80j" path="res://texture/Ghostpixxelss_pixelfood/02_dish_2.png" id="1_0sknv"]
+[ext_resource type="Texture2D" uid="uid://pilfl4onxxq3" path="res://texture/Ghostpixxelss_pixelfood/38_friedegg.png" id="1_i1niy"]
+[ext_resource type="Texture2D" uid="uid://cfhfvgrjeb2v3" path="res://texture/Ghostpixxelss_pixelfood/101_waffle.png" id="2_18n6m"]
+[ext_resource type="Texture2D" uid="uid://cmweby1qe0xeg" path="res://texture/Ghostpixxelss_pixelfood/28_cookies.png" id="3_klmpm"]
+[ext_resource type="Texture2D" uid="uid://cjluvlbbj7e1l" path="res://texture/Ghostpixxelss_pixelfood/07_bread.png" id="4_c2lg7"]
+[ext_resource type="Texture2D" uid="uid://dh3okg21iwx2g" path="res://texture/Ghostpixxelss_pixelfood/09_baguette.png" id="5_q4gxi"]
+[ext_resource type="Texture2D" uid="uid://b8yhvwe7abmib" path="res://texture/Ghostpixxelss_pixelfood/11_bun.png" id="6_kpus2"]
+[ext_resource type="Texture2D" uid="uid://dlramvbh5672q" path="res://texture/Ghostpixxelss_pixelfood/18_burrito.png" id="7_aec2o"]
+[ext_resource type="Texture2D" uid="uid://6th8boopo6ps" path="res://texture/Ghostpixxelss_pixelfood/15_burger.png" id="8_03kr0"]
+[ext_resource type="Texture2D" uid="uid://bolhkvurvd32a" path="res://texture/Ghostpixxelss_pixelfood/63_lemonpie.png" id="9_xt0cc"]
+[ext_resource type="Texture2D" uid="uid://b1fmnd2hc7bun" path="res://texture/Ghostpixxelss_pixelfood/99_taco.png" id="10_x211l"]
+[ext_resource type="Texture2D" uid="uid://e48077yw6p7b" path="res://texture/Ghostpixxelss_pixelfood/97_sushi.png" id="11_vypq4"]
+[ext_resource type="Texture2D" uid="uid://ctlfjqlxlany7" path="res://texture/Ghostpixxelss_pixelfood/95_steak.png" id="12_t8vsq"]
+[ext_resource type="Texture2D" uid="uid://kbf273f8li13" path="res://texture/Ghostpixxelss_pixelfood/88_salmon.png" id="13_sil1y"]
+[ext_resource type="Texture2D" uid="uid://btarbpu50q0rd" path="res://texture/Ghostpixxelss_pixelfood/92_sandwich.png" id="14_n336n"]
+[ext_resource type="Texture2D" uid="uid://dwatjsnhmbxhv" path="res://texture/Ghostpixxelss_pixelfood/90_strawberrycake.png" id="15_8w4a2"]
+[ext_resource type="Texture2D" uid="uid://daao6svky22ls" path="res://texture/Ghostpixxelss_pixelfood/85_roastedchicken.png" id="16_n37r4"]
+[ext_resource type="Texture2D" uid="uid://caxsy4fqjfe35" path="res://texture/Ghostpixxelss_pixelfood/83_popcorn.png" id="17_kqfcw"]
+[ext_resource type="Texture2D" uid="uid://c1a81yowqty3b" path="res://texture/Ghostpixxelss_pixelfood/81_pizza.png" id="18_lakeo"]
+[ext_resource type="Texture2D" uid="uid://lrwxugn1g558" path="res://texture/Ghostpixxelss_pixelfood/77_potatochips.png" id="19_phhyx"]
+[ext_resource type="Texture2D" uid="uid://bvtfk26n6rc3f" path="res://texture/Ghostpixxelss_pixelfood/75_pudding.png" id="20_qkgbc"]
+[ext_resource type="Texture2D" uid="uid://dupnha3rtjc4s" path="res://texture/Ghostpixxelss_pixelfood/73_omlet.png" id="21_go67o"]
+[ext_resource type="Texture2D" uid="uid://cn77rbp3br84h" path="res://texture/Ghostpixxelss_pixelfood/71_nacho.png" id="22_oaop7"]
+[ext_resource type="Texture2D" uid="uid://bfg2gw4el5uya" path="res://texture/Ghostpixxelss_pixelfood/69_meatball.png" id="23_krkl8"]
+[ext_resource type="Texture2D" uid="uid://djhd4dwieqc3i" path="res://texture/Ghostpixxelss_pixelfood/67_macncheese.png" id="24_fthd6"]
+[ext_resource type="Texture2D" uid="uid://be8mnyrc3d70c" path="res://texture/Ghostpixxelss_pixelfood/61_jam.png" id="25_5oygs"]
+[ext_resource type="Texture2D" uid="uid://b3hgxoag27qej" path="res://texture/Ghostpixxelss_pixelfood/57_icecream.png" id="26_4qcno"]
+[ext_resource type="Texture2D" uid="uid://db7drgaawhx05" path="res://texture/Ghostpixxelss_pixelfood/54_hotdog.png" id="27_4l5b1"]
+[ext_resource type="Texture2D" uid="uid://cj0d0o4sjo3pc" path="res://texture/Ghostpixxelss_pixelfood/50_giantgummybear.png" id="28_f1ke5"]
+[ext_resource type="Texture2D" uid="uid://c6p7giunxktrj" path="res://texture/Ghostpixxelss_pixelfood/52_gingerbreadman.png" id="29_qjuve"]
+[ext_resource type="Texture2D" uid="uid://bo6c6m728bxt7" path="res://texture/Ghostpixxelss_pixelfood/48_garlicbread.png" id="30_sbo2y"]
+[ext_resource type="Texture2D" uid="uid://bhrhetttvgtiu" path="res://texture/Ghostpixxelss_pixelfood/46_fruitcake.png" id="31_w12ww"]
+[ext_resource type="Texture2D" uid="uid://dpgg76tk1b1wo" path="res://texture/Ghostpixxelss_pixelfood/44_frenchfries.png" id="32_paaes"]
+[ext_resource type="Texture2D" uid="uid://mktbys24icov" path="res://texture/Ghostpixxelss_pixelfood/42_eggtart.png" id="33_12rfo"]
+[ext_resource type="Texture2D" uid="uid://dun4o6xolv8m1" path="res://texture/Ghostpixxelss_pixelfood/20_bagel.png" id="34_xmabr"]
+[ext_resource type="Texture2D" uid="uid://lw3hofkxcitp" path="res://texture/Ghostpixxelss_pixelfood/40_eggsalad.png" id="35_asasw"]
+[ext_resource type="Texture2D" uid="uid://d13h3f4vc4mbm" path="res://texture/Ghostpixxelss_pixelfood/22_cheesecake.png" id="36_tc3um"]
+[ext_resource type="Texture2D" uid="uid://b1f5ribf78avi" path="res://texture/Ghostpixxelss_pixelfood/36_dumplings.png" id="37_ilgnq"]
+[ext_resource type="Texture2D" uid="uid://drdi10fa4a2fw" path="res://texture/Ghostpixxelss_pixelfood/24_cheesepuff.png" id="38_hbhy2"]
+[ext_resource type="Texture2D" uid="uid://dydotpj5243rj" path="res://texture/Ghostpixxelss_pixelfood/34_donut.png" id="39_3arup"]
+[ext_resource type="Texture2D" uid="uid://d1at3jguxsp78" path="res://texture/Ghostpixxelss_pixelfood/26_chocolate.png" id="40_dh1ia"]
+[ext_resource type="Texture2D" uid="uid://chytcdq027sps" path="res://texture/Ghostpixxelss_pixelfood/32_curry.png" id="41_abqbh"]
+[ext_resource type="Texture2D" uid="uid://b35w4lj0kqhd7" path="res://texture/Ghostpixxelss_pixelfood/30_chocolatecake.png" id="42_wvclr"]
+[ext_resource type="Texture2D" uid="uid://bpo3ogyhggxba" path="res://texture/Ghostpixxelss_pixelfood/59_jelly.png" id="43_2qkyp"]
+[ext_resource type="Texture2D" uid="uid://bhsvdnk3g28os" path="res://texture/Ghostpixxelss_pixelfood/65_loafbread.png" id="44_cdmy6"]
+[ext_resource type="Texture2D" uid="uid://csu5jjrkdm1my" path="res://texture/Ghostpixxelss_pixelfood/79_pancakes.png" id="45_24oyh"]
+[ext_resource type="Script" path="res://script/food.gd" id="46_nwes8"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_888kc"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_0sknv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_klmpm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("1_i1niy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_18n6m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_c2lg7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_q4gxi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_kpus2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_aec2o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_03kr0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_xt0cc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_x211l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_vypq4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_t8vsq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_sil1y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_n336n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_8w4a2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_n37r4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_kqfcw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_lakeo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_phhyx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_qkgbc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_go67o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_oaop7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_krkl8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_fthd6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_5oygs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_4qcno")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_4l5b1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_f1ke5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_qjuve")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_sbo2y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_w12ww")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_paaes")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_12rfo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_xmabr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_asasw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_tc3um")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_ilgnq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_hbhy2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_3arup")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_dh1ia")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_abqbh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_wvclr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_2qkyp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_cdmy6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_24oyh")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_kesmb"]
+radius = 11.5677
+
+[sub_resource type="Animation" id="Animation_myq56"]
+resource_name = "idle"
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:offset")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(0, 0)]
+}
+
+[sub_resource type="Animation" id="Animation_0n6fw"]
+resource_name = "swappingdown"
+length = 0.20001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:offset")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.2),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector2(0, 25), Vector2(0, 0)]
+}
+
+[sub_resource type="Animation" id="Animation_660uh"]
+resource_name = "swappingleft"
+length = 0.20001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:offset")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.2),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector2(-25, 0), Vector2(0, 0)]
+}
+
+[sub_resource type="Animation" id="Animation_udc2t"]
+resource_name = "swapping"
+length = 0.20001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:offset")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.2),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector2(25, 0), Vector2(0, 0)]
+}
+
+[sub_resource type="Animation" id="Animation_lkohc"]
+resource_name = "swappingup"
+length = 0.20001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:offset")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.2),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector2(0, -25), Vector2(0, 0)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_sklxb"]
+_data = {
+"idle": SubResource("Animation_myq56"),
+"swappingdown": SubResource("Animation_0n6fw"),
+"swappingleft": SubResource("Animation_660uh"),
+"swappingright": SubResource("Animation_udc2t"),
+"swappingup": SubResource("Animation_lkohc")
+}
+
+[node name="food" type="AnimatedSprite2D"]
+scale = Vector2(4, 4)
+sprite_frames = SubResource("SpriteFrames_888kc")
+script = ExtResource("46_nwes8")
+
+[node name="mouse_detect" type="Area2D" parent="."]
+
+[node name="CollisionSC" type="CollisionShape2D" parent="mouse_detect"]
+shape = SubResource("CircleShape2D_kesmb")
+
+[node name="Animation" type="AnimationPlayer" parent="."]
+libraries = {
+"": SubResource("AnimationLibrary_sklxb")
+}
+
+[connection signal="mouse_entered" from="mouse_detect" to="." method="_on_mouse_detect_l_1_mouse_entered"]
+[connection signal="mouse_exited" from="mouse_detect" to="." method="_on_mouse_detect_mouse_exited"]
+[connection signal="animation_finished" from="Animation" to="." method="_on_animation_animation_finished"]

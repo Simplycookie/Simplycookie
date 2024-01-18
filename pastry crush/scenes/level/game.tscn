@@ -1,0 +1,17 @@
+[gd_scene load_steps=2 format=3 uid="uid://cwt0shcfac3pj"]
+
+[ext_resource type="Script" path="res://script/game.gd" id="1_p0rdr"]
+
+[node name="game" type="Node2D"]
+script = ExtResource("1_p0rdr")
+Colims = 8
+Rows = 5
+
+[node name="Playerview" type="Camera2D" parent="."]
+
+[node name="score" type="RichTextLabel" parent="Playerview"]
+offset_left = -576.0
+offset_top = -320.0
+offset_right = -192.0
+offset_bottom = -296.0
+scale = Vector2(3, 3)
